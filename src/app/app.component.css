@@ -1,0 +1,27 @@
+#assignment-instructions{
+    background: tomato;
+    color: whitesmoke;
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+/* font-family: 'Balsamiq Sans', cursive;
+font-family: 'DM Mono', monospace; */
+
+ol > li{
+    background:black;
+    color:white;
+}
+
+div{
+    font-family: sans-serif;
+}
+
+.secndli{
+    color:green;
+}
+
+#firstDiffOne{
+    background: yellowgreen;
+    color: yellow;
+}
+
